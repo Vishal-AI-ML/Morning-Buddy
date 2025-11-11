@@ -158,7 +158,3 @@ Discovers upcoming events with timing, venue, and booking links.
 - OpenWeather, NewsAPI, and SerpAPI for data services
 - Unsplash for beautiful imagery
 - Streamlit for the amazing framework
-
-⭐ **If you found this project helpful, please consider giving it a star!**
-
-**Made with ❤️ and ☕ by Vishal Shivhare**
